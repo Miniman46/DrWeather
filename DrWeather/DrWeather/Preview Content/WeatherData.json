@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -95.6164,
+    "lat": 37.0373
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 75.92,
+    "feels_like": 75.18,
+    "temp_min": 75.25,
+    "temp_max": 79.02,
+    "pressure": 1003,
+    "humidity": 42
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 13.8,
+    "deg": 220
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1715103729,
+  "sys": {
+    "type": 1,
+    "id": 3611,
+    "country": "US",
+    "sunrise": 1715080867,
+    "sunset": 1715131010
+  },
+  "timezone": -18000,
+  "id": 4269789,
+  "name": "Coffeyville",
+  "cod": 200
+}
